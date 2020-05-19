@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sound Generator</string>
+    <string name="title_app">Welcome to sound generator</string>
+    <string name="title_play">Play</string>
+    <string name="title_stop">Stop</string>
+    <string name="title_topFreq">Frequency Min/Max</string>
+    <string name="title_max">Max Frequency (19,000 Hz)</string>
+    <string name="title_min">Min Frequency (8,000 Hz)</string>
+    <string name="title_freq">Frequency</string>
+    <string name="title_vol">Volume</string>
+    <string name="title_freqPlay">Frequency play :</string>
+    <string name="value_freqPlay">--</string>
+    <string name="value_freqBase">10</string>
+</resources>
